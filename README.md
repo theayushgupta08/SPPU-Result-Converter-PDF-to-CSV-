@@ -7,7 +7,7 @@ Result Converter is a Python-based tool designed to streamline the process of an
 3. Efficiency: Automates the conversion process, saving time and effort.
 4. Customizable: Flexible options for tailoring the conversion process to specific needs.
 
-#Usage:
+# Usage:
 
 1. Input PDF: Provide the SPPU result PDF file as input.
 2. Conversion: Run the script to convert the PDF data into CSV format.
