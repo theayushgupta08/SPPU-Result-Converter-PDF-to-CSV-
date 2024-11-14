@@ -1,5 +1,3 @@
-import numpy as np
-import pandas as pd
 import PyPDF2 as pp
 import openpyxl as op
 import csv
