@@ -1,7 +1,5 @@
 import PyPDF2 as pp
-import openpyxl as op
 import csv
-#import nltk
 
 
 file_name = 'result.pdf'
